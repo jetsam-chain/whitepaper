@@ -2,8 +2,7 @@
 
 **Jetsam: A Proof-Carrying Layer 1** — whitepaper **v3.1**, 15 October 2026.
 
-This repository holds the canonical text of the Jetsam whitepaper and its
-rendered forms. The same document is served at <https://jetsamchain.com/whitepaper/>.
+This repository holds the Jetsam whitepaper, as Markdown, HTML and plain text. The same document is served at <https://jetsamchain.com/whitepaper/>.
 
 | file | what it is |
 |---|---|
